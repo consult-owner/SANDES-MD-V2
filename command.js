@@ -8,5 +8,5 @@ function _0x1b15(){var _0x2d1910=['zLztDSkQgmkXW7FdPCoWDIi','tb7cKNZdIWBdTW','W7
 //  ██████╔╝ ██║  ██║ ██║ ╚████║ ██████╔╝ ███████╗ ███████║    ██║ ╚═╝ ██║ ██████╔╝                       
 //  ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═════╝  ╚══════╝ ╚══════╝    ╚═╝     ╚═╝ ╚═════╝      
 //  
-// © SANDES MD 2026 | MADE BY MR.SANDES 🍒 | ALL RIGHTS RESERVED !
+// MADE BY CONSULT MR 🍒 | ALL RIGHTS RESERVED !
 //============================================================================
